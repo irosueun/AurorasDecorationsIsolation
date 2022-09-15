@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "candles=1,lit=false": {
+      "model": "aurorasdeco:block/chandelier/one/orange"
+    },
+    "candles=1,lit=true": {
+      "model": "aurorasdeco:block/chandelier/one/orange_lit"
+    },
+    "candles=2,lit=false": {
+      "model": "aurorasdeco:block/chandelier/two/orange"
+    },
+    "candles=2,lit=true": {
+      "model": "aurorasdeco:block/chandelier/two/orange_lit"
+    },
+    "candles=3,lit=false": {
+      "model": "aurorasdeco:block/chandelier/three/orange"
+    },
+    "candles=3,lit=true": {
+      "model": "aurorasdeco:block/chandelier/three/orange_lit"
+    },
+    "candles=4,lit=false": {
+      "model": "aurorasdeco:block/chandelier/four/orange"
+    },
+    "candles=4,lit=true": {
+      "model": "aurorasdeco:block/chandelier/four/orange_lit"
+    }
+  }
+}

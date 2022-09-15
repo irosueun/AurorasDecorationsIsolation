@@ -1,0 +1,30 @@
+{
+  "required": true,
+  "package": "dev.lambdaurora.aurorasdeco.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "PointOfInterestTypeMixin",
+    "PointOfInterestTypesAccessor",
+    "SimpleRegistryAccessor",
+    "StateManagerBuilderAccessor",
+    "block.AbstractBlockAccessor",
+    "block.BlockAccessor",
+    "block.BlockSettingsAccessor",
+    "item.ItemMixin",
+    "world.FoliagePlacerTypeAccessor",
+    "world.OverworldBiomeCreatorAccessor",
+    "world.OverworldBiomeParametersMixin",
+    "world.TreeConfiguredFeaturesAccessor",
+    "world.VegetationConfiguredFeaturesMixin"
+  ],
+  "client": [
+    "client.BlockStateParticleEffectAccessor",
+    "client.MobEntityRendererAccessor",
+    "client.ModelLoaderMixin",
+    "client.NativeImageAccessor",
+    "client.ReloadableResourceManagerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

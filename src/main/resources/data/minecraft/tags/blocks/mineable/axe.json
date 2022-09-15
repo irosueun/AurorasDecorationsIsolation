@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "aurorasdeco:sawmill",
+    "#aurorasdeco:benches",
+    "#aurorasdeco:pet_beds",
+    "#aurorasdeco:shelves",
+    "#aurorasdeco:small_log_piles",
+    "#aurorasdeco:stumps",
+    "aurorasdeco:copper_sulfate_campfire"
+  ]
+}

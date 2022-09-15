@@ -1,0 +1,63 @@
+{
+  "block.flowering.shear": {
+    "sounds": [
+      "mob/sheep/shear"
+    ],
+    "subtitle": "subtitles.item.shears.shear"
+  },
+  "block.brazier.crackle": {
+    "sounds": [
+      "block/campfire/crackle1",
+      "block/campfire/crackle2",
+      "block/campfire/crackle3",
+      "block/campfire/crackle4",
+      "block/campfire/crackle5",
+      "block/campfire/crackle6"
+    ],
+    "subtitle": "subtitles.aurorasdeco.block.brazier.crackle"
+  },
+  "block.lantern.swing": {
+    "sounds": [
+      "block/lantern/break1",
+      "block/lantern/break2",
+      "block/lantern/break3",
+      "block/lantern/break4",
+      "block/lantern/break5",
+      "block/lantern/break6"
+    ],
+    "subtitle": "subtitles.aurorasdeco.block.lantern.swing"
+  },
+  "block.shelf.add_item": {
+    "sounds": [
+      "entity/itemframe/add_item1",
+      "entity/itemframe/add_item2",
+      "entity/itemframe/add_item3",
+      "entity/itemframe/add_item4"
+    ],
+    "subtitle": "subtitles.aurorasdeco.block.shelf.remove_item"
+  },
+  "block.shelf.remove_item": {
+    "sounds": [
+      "entity/itemframe/remove_item1",
+      "entity/itemframe/remove_item2",
+      "entity/itemframe/remove_item3",
+      "entity/itemframe/remove_item4"
+    ],
+    "subtitle": "subtitles.aurorasdeco.block.shelf.remove_item"
+  },
+  "entity.armor_stand.hide_base_plate": {
+    "sounds": [
+      "entity/itemframe/remove_item1",
+      "entity/itemframe/remove_item2",
+      "entity/itemframe/remove_item3",
+      "entity/itemframe/remove_item4"
+    ],
+    "subtitle": "subtitles.aurorasdeco.entity.armor_stand.hide_base_plate"
+  },
+  "entity.item_frame.hide_background": {
+    "sounds": [
+      "mob/sheep/shear"
+    ],
+    "subtitle": "subtitles.item.shears.shear"
+  }
+}
